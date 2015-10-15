@@ -1,4 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Workspace
    version = "1.0">
+   <Group
+      location = "group:Configuration"
+      name = "Configuration">
+      <FileRef
+         location = "group:AJConfiguration.h">
+      </FileRef>
+      <FileRef
+         location = "group:AJConfiguration.m">
+      </FileRef>
+      <FileRef
+         location = "group:AJOAuthConfiguration.h">
+      </FileRef>
+      <FileRef
+         location = "group:AJOAuthConfiguration.m">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:AJHTTPManager"
+      name = "AJHTTPManager">
+      <FileRef
+         location = "group:AJHTTPClient.h">
+      </FileRef>
+      <FileRef
+         location = "group:AJHTTPClient.m">
+      </FileRef>
+   </Group>
+   <Group
+      location = "group:AJOAuth2Client"
+      name = "AJOAuth2Client">
+      <FileRef
+         location = "group:AJOAuthClient.h">
+      </FileRef>
+      <FileRef
+         location = "group:AJOAuthClient.m">
+      </FileRef>
+   </Group>
 </Workspace>
